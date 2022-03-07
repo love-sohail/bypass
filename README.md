@@ -1,19 +1,19 @@
 # bypass
 
-pkg update
++ pkg update
 
-pkg upgrade
++ pkg upgrade
 
-pkg install python2
++ pkg install python2
 
-pkg install git
++ pkg install git
 
-pip2 install mechanize
++ pip2 install mechanize
 
-pip2 install requests
++ pip2 install requests
 
-git clone https://github.com/love-sohail/bypass
++ git clone https://github.com/love-sohail/bypass
 
-cd bypass
++ cd bypass
 
-python Adf.py
++ python Adf.py
